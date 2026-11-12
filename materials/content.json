@@ -27,15 +27,11 @@
       "items": [
         {
           "title": "Golf Swing Analysis with RGB Video",
-          "text": "Developed work around golf-specific pose estimation, golfer and club detection, synthetic motion blur, and trajectory postprocessing.",
-          "url": "https://youminghu0930-public.github.io/golf-swing-analysis-poc/",
-          "linkLabel": "Explore the work ↗"
+          "text": "Developed work around golf-specific pose estimation, golfer and club detection, synthetic motion blur, and trajectory postprocessing."
         },
         {
           "title": "Golf True 3D",
-          "text": "Connected multi-view reconstruction, camera synchronization, and pose information extraction to inspect golf movement in 3D.",
-          "url": "https://youminghu0930-public.github.io/golf-true-3d-product/",
-          "linkLabel": "Explore the work ↗"
+          "text": "Connected multi-view reconstruction, camera synchronization, and pose information extraction to inspect golf movement in 3D."
         }
       ]
     },
