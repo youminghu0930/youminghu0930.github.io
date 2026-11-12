@@ -1,0 +1,82 @@
+{
+  "page": {
+    "title": "Youming Hu | About me",
+    "description": "Youming Hu — computer vision, motion analysis, and applied research.",
+    "eyebrow": "Computer vision · Motion analysis · Applied research",
+    "heading": "Hi, I’m Youming Hu.",
+    "intro": "I build computer-vision systems that turn ordinary video into useful movement insights.",
+    "mainPage": {
+      "label": "Return to GitHub main page",
+      "url": "https://github.com/youminghu0930"
+    },
+    "polishedUrl": "https://youminghu0930.github.io/"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "About me",
+      "paragraphs": [
+        "I’m Youming. My work connects computer vision, geometry, and movement analysis. I’m interested in making complex motion easier to reconstruct, inspect, and understand.",
+        "My current work uses golf swings to explore reliable tracking, 3D reconstruction, and interpretable motion measurements from RGB video."
+      ]
+    },
+    {
+      "id": "achievements",
+      "title": "Work & achievements",
+      "intro": "Selected work documented in my public portfolio.",
+      "items": [
+        {
+          "title": "Golf Swing Analysis with RGB Video",
+          "text": "Developed work around golf-specific pose estimation, golfer and club detection, synthetic motion blur, and trajectory postprocessing.",
+          "url": "https://youminghu0930-public.github.io/golf-swing-analysis-poc/",
+          "linkLabel": "Explore the work ↗"
+        },
+        {
+          "title": "Golf True 3D",
+          "text": "Connected multi-view reconstruction, camera synchronization, and pose information extraction to inspect golf movement in 3D.",
+          "url": "https://youminghu0930-public.github.io/golf-true-3d-product/",
+          "linkLabel": "Explore the work ↗"
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "title": "Skills & focus",
+      "items": [
+        {
+          "title": "Computer vision",
+          "text": "Pose estimation, object detection, and tracking in challenging motion."
+        },
+        {
+          "title": "3D geometry",
+          "text": "Multi-view reconstruction, camera synchronization, and spatial measurements."
+        },
+        {
+          "title": "Motion analysis",
+          "text": "Trajectory stabilization and interpretable rotation and translation measurements."
+        },
+        {
+          "title": "Applied research",
+          "text": "Connecting data, experiments, and visual demonstrations to explain a method."
+        }
+      ]
+    },
+    {
+      "id": "connect",
+      "title": "Find me",
+      "paragraphs": [
+        "Explore my public work or switch between the two versions of this introduction."
+      ],
+      "links": [
+        {
+          "label": "Public project portfolio ↗",
+          "url": "https://youminghu0930-public.github.io/"
+        },
+        {
+          "label": "GitHub profile / README ↗",
+          "url": "https://github.com/youminghu0930"
+        }
+      ]
+    }
+  ]
+}
