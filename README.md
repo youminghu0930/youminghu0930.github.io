@@ -41,3 +41,7 @@ node scripts/serve.mjs --dist
 The workflow builds and deploys `dist/` on pushes to main or master. In GitHub repository Settings → Pages, choose GitHub Actions as the source. Build output is ignored by Git.
 
 The sibling profile repository remote is `youminghu0930/youminghu0930`; its root README supplies the personal GitHub introduction. This differs from the public organization’s `profile/README.md` arrangement.
+
+## Parallel landing pages
+
+The personal and public GitHub landing READMEs link to each other and to their own polished pages. The polished personal page and portfolio link to each other in the main content; each left navigator returns to its own GitHub parent.
