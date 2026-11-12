@@ -9,7 +9,11 @@
       "label": "Return to GitHub main page",
       "url": "https://github.com/youminghu0930"
     },
-    "polishedUrl": "https://youminghu0930.github.io/"
+    "polishedUrl": "https://youminghu0930.github.io/",
+    "portfolioPage": {
+      "label": "Explore my portfolio →",
+      "url": "https://youminghu0930-public.github.io/"
+    }
   },
   "sections": [
     {
@@ -54,23 +58,6 @@
         {
           "title": "Applied research",
           "text": "Connecting data, experiments, and visual demonstrations to explain a method."
-        }
-      ]
-    },
-    {
-      "id": "connect",
-      "title": "Find me",
-      "paragraphs": [
-        "Explore my public work or switch between the two versions of this introduction."
-      ],
-      "links": [
-        {
-          "label": "Public project portfolio ↗",
-          "url": "https://youminghu0930-public.github.io/"
-        },
-        {
-          "label": "GitHub profile / README ↗",
-          "url": "https://github.com/youminghu0930"
         }
       ]
     }

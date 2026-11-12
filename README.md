@@ -45,3 +45,7 @@ The sibling profile repository remote is `youminghu0930/youminghu0930`; its root
 ## Parallel landing pages
 
 The personal and public GitHub landing READMEs link to each other and to their own polished pages. The polished personal page and portfolio link to each other in the main content; each left navigator returns to its own GitHub parent.
+
+## Shared appearance
+
+The canonical design lives in `main-public.github.io/design/`: edit `theme.json` for colors and corner radii or `styles.template.css` for layout and typography. From that repository, run `node scripts/sync-design.mjs` to update both pages, then `node scripts/sync-design.mjs --check` to check for differences. Both `styles.css` files are generated. See `design/SPEC.md` in the public polished-page repository for the shared markup contract and alternate checkout paths.
